@@ -1,2 +1,2 @@
 # translator
-This is a translator! It translates Spanish to English and English to Spanish. This is primarily used for conversations related to school, and has 200 of the most common Spanish words in it. 
+This is a translator! It translates Spanish to English and English to Spanish. This is primarily used for conversations related to school, and has 200 of the most common Spanish words in it. The most common words are taken from this list https://strommeninc.com/1000-most-common-spanish-words-frequency-vocabulary/ and are both able to be translated from Spanish to English and English to Spanish. 
